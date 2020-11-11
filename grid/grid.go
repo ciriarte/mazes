@@ -10,8 +10,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ciriarte/base36"
-	"github.com/ciriarte/cell"
+	"github.com/ciriarte/mazes/base36"
+	"github.com/ciriarte/mazes/cell"
 )
 
 // Grid represents a Maze Data model

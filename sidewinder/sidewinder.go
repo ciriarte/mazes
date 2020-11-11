@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/ciriarte/cell"
-	"github.com/ciriarte/grid"
+	"github.com/ciriarte/mazes/cell"
+	"github.com/ciriarte/mazes/grid"
 )
 
 // Run mutates a Grid object

@@ -4,8 +4,8 @@ import (
 	"container/heap"
 	"math"
 
-	"github.com/ciriarte/cell"
-	"github.com/ciriarte/grid"
+	"github.com/ciriarte/mazes/cell"
+	"github.com/ciriarte/mazes/grid"
 )
 
 // Item a cell with a distance
